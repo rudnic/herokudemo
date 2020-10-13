@@ -2,7 +2,8 @@
   "encoding": "UTF-8",
   "headers": {
     "/*": {
-      "X-Author": "Nikita"
+      "X-Author": "Nikita",
+      "Access-Control-Allow-Origin": "*"
     }
   }
 }
