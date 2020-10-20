@@ -2,7 +2,7 @@
   "encoding": "UTF-8",
   "headers": {
     "/*": {
-      "X-Author": "Nikita",
+      "X-Author": "Рудницкий, Никита Дмитриевич",
       "Access-Control-Allow-Origin": "*"
     }
   }
