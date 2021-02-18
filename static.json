@@ -2,7 +2,7 @@
   "encoding": "UTF-8",
   "headers": {
     "/*": {
-      "X-Author": "190575",
+      "X-Author": "nikird",
       "Access-Control-Allow-Origin": "*"
     }
   }
