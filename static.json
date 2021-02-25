@@ -1,5 +1,6 @@
 {
   "encoding": "UTF-8",
+  "Content-Type": "text/plain",
   "headers": {
     "/*": {
       "X-Author": "nikird",
