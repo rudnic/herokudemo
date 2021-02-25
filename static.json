@@ -4,6 +4,9 @@
     "/*": {
       "X-Author": "nikird",
       "Access-Control-Allow-Origin": "*"
-    }
+    },
+    "routes": {
+      "/login/": "/login.html",
+      "/sample/": "/sample.html
   }
 }
