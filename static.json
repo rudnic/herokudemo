@@ -1,13 +1,22 @@
 {
-  "encoding": "UTF-8",
-  "Content-Type": "text/plain",
+  "routes": {
+    "/login/": "/login.html",
+    "/sample/": "/sample.html"
+  },
+  
   "headers": {
     "/*": {
       "X-Author": "nikird",
       "Access-Control-Allow-Origin": "*"
     },
-    "routes": {
-      "/login/": "/login.html",
-      "/sample/": "/sample.html
+    "/login/": {
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/plain; charset=UTF-8"      
+    },
+    "/sample/": {
+      "Access-Control-Allow-Origin": "*",
+      "Content-Type": "text/plain"      
+    }
   }
 }
+
