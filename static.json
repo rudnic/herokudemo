@@ -17,10 +17,6 @@
     "/promise/": {
       "Access-Control-Allow-Origin": "*",
       "Content-Type": "text/plain"      
-    },
-    "/fetch/" :{
-      "Access-Control-Allow-Origin": "*",
-      "Content-Type": "text/plain"
     }
   }
 }
